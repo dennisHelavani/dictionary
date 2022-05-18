@@ -55,7 +55,7 @@ const ResultList = () => {
     return (
       <div className="not-found">
         <h3 className="searched-word">No definition has been found 😔 </h3>
-        <p>Try again</p>
+      <p>Return to <a href='<App/>'>Search</a></p>
       </div>
     );
   }
