@@ -7,3 +7,5 @@ In the terminal paste and run:
 ### $ npm install
 and then 
 ### $ npm start
+
+And the project will run on http://localhost:3000/
