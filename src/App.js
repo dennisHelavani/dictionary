@@ -15,7 +15,6 @@ function App() {
         <BrowserRouter>
           <Header />
           <Routes>
-            <Route path="online_dictionary/:word" element={<ResultList />} />
             <Route path="/:word" element={<ResultList />} />
           </Routes>
         </BrowserRouter>

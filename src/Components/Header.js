@@ -30,11 +30,7 @@ const Header = () => {
           </button>
         </Link>
       </div>
-      {/* {inputValue && (
-        <h3 className="searched-word">
-          Result for: <span>{inputValue}</span>
-        </h3>
-      )} */}
+    
     </div>
   );
 };
